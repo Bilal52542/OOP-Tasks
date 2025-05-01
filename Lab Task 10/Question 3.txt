@@ -1,4 +1,0 @@
-1,Linus,Torvalds,Finland,linus@example.com
-2,Alan,Turing,UK,alan@crypto.com
-3,Ada,Lovelace,UK,ada@math.org
-4,Grace,Hopper,USA,grace@navy.mil
